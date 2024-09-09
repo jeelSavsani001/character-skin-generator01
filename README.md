@@ -5,7 +5,7 @@ Following are the models which we have tested:
 1) timbrooks/instruct-pix2pix 
 2) InstantX/FLUX.1-dev-Controlnet-Canny(It does not work on less VRAM in full original form so we have put Demo results
    from https://huggingface.co/spaces/fffiloni/FLUX.1_dev_InstantX_ControlNet_Canny)
-3) LoRA finetuned diffusers/sdxl-instructpix2pix-768
+3) LoRA finetuned diffusers/sdxl-instructpix2pix-768(only for 1 epoch)
 
 Results were good on basic cartoonish characters like the following:
 
