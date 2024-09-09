@@ -27,3 +27,11 @@ Then we wanted to try this out on complex characters where it failed badly but w
 
 ![Skin2](https://github.com/jeelSavsani001/character-skin-generator01/blob/main/Fortnite_2.jpg)
 
+
+
+And finally we wanted to try it out on valorant characters, and results were similar to above but flux gave us some better results as follow:
+
+![Original_Image.](https://github.com/jeelSavsani001/character-skin-generator01/blob/main/Fortnite.jpg)
+
+![Skin1](https://github.com/jeelSavsani001/character-skin-generator01/blob/main/Res4.jpg)
+
