@@ -15,3 +15,15 @@ Results were good on basic cartoonish characters like the following:
 
 
 ![Skin_2](https://github.com/jeelSavsani001/character-skin-generator01/blob/main/Res5.jpg)
+
+
+These were mostly timbrooks/instruct-pix2pix 
+
+Then we wanted to try this out on complex characters where it failed badly but we finetuned a LoRA on SDXL using the dataset https://huggingface.co/datasets/olly4/fortnite_characters and we got following results:
+
+![Original_Image.](https://github.com/jeelSavsani001/character-skin-generator01/blob/main/Fortnite.jpg)
+
+![Skin1](https://github.com/jeelSavsani001/character-skin-generator01/blob/main/Fortnite_skin.jpg)
+
+![Skin2](https://github.com/jeelSavsani001/character-skin-generator01/blob/main/Fortnite_2.jpg)
+
