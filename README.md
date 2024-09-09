@@ -11,7 +11,7 @@ Results were good on basic cartoonish characters like the following:
 ![Original_Image.](https://github.com/jeelSavsani001/character-skin-generator01/blob/main/Bea_Original.jpg)
 
 
-![Original_Image.](https://github.com/jeelSavsani001/character-skin-generator01/blob/main/Bea_Original.jpg)
+![Skin_1](https://github.com/jeelSavsani001/character-skin-generator01/blob/main/Res3.jpg)
 
 
-![Original_Image.](https://github.com/jeelSavsani001/character-skin-generator01/blob/main/Bea_Original.jpg)
+![Skin_2](https://github.com/jeelSavsani001/character-skin-generator01/blob/main/Res5.jpg)
