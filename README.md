@@ -19,7 +19,7 @@ Results were good on basic cartoonish characters like the following:
 
 These were mostly timbrooks/instruct-pix2pix 
 
-Then we wanted to try this out on complex characters where it failed badly but we finetuned a LoRA on SDXL using the dataset https://huggingface.co/datasets/olly4/fortnite_characters and we got following results:
+Then we wanted to try this out on complex characters where it failed badly but we finetuned a LoRA on SDXL using the dataset https://huggingface.co/datasets/olly4/fortnite_characters using the script from https://github.com/huggingface/diffusers/blob/main/examples/text_to_image/README_sdxl.md and we got following results:
 
 ![Original_Image.](https://github.com/jeelSavsani001/character-skin-generator01/blob/main/Fortnite.jpg)
 
