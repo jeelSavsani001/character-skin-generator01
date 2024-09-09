@@ -8,3 +8,6 @@ Following are the models which we have tested:
 
 Results were good on basic cartoonish characters like the following:
 
+![Original_Image.]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/jeelSavsani001/character-skin-generator01/blob/main/Bea_Original.jpg))
+
+
